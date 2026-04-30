@@ -127,10 +127,3 @@ This project demonstrates how **Dynamic Programming** can be applied to solve re
 
 ---
 
-## 👨‍💻 Author
-
-* Name: (Your Name)
-* Course: B.Tech CSE (2nd Year)
-* Project Type: Algorithm-Based Project (Greedy / DP)
-
----
